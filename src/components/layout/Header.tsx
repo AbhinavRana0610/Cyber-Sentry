@@ -85,6 +85,11 @@ export function Header() {
                 Publish News Article
               </Link>
             </li>
+            <li>
+              <Link href="/contact" className="block py-3 px-4 hover:bg-slate-200 hover:text-blue-900 border-b-2 border-transparent hover:border-blue-900 transition-colors">
+                Contact Us
+              </Link>
+            </li>
           </ul>
         </div>
       </nav>
